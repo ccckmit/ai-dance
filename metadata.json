@@ -1,0 +1,6 @@
+{
+  "name": "RitmoDance - 社交舞互動學院",
+  "description": "專業社交舞教學平台，涵蓋巴洽達 (Bachata)、莎莎 (Salsa)、吉魯巴 (Jitterbug)、探戈 (Tango) 與華爾茲 (Waltz)，提供動態足跡舞池、節奏律動機、分解步驟與示範影片。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
